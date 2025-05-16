@@ -1,7 +1,3 @@
-# Tech Hub Intern Management System
-# This program organizes attachees (interns) into divisions,
-# allows task assignment, feedback collection, and scoring by supervisors.
-
 class Attachee:
     """Class representing an intern/attachee at the tech innovation hub."""
     
